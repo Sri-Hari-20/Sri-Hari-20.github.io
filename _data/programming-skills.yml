@@ -4,16 +4,16 @@
 
 - name: Python
   percentage: 70
-  color:
+  color: info
 
-  name: Angular v8
+- name: Angular v8
   percentage: 70
-  color:
+  color: info
 
 - name: Kotlin
   percentage: 60
   color: dark
 
-  name: App Development
+- name: App Development
   percentage: 55
   color: dark
