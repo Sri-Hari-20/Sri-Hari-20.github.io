@@ -1,7 +1,7 @@
-- name: Adobe Photoshop
+- name: Git - Version Control
   percentage: 95
   color: info
 
-- name: Adobe Illustrator
+  name: Machine Learning/ Deep Learning
   percentage: 90
-  color: success
+  color: info

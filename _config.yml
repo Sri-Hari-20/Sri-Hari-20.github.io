@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Sri Hari Karthick
 description         : >-                               # >- means to ignore newlines until "url:"
-                      "I turn coffee :coffee: into code,
+                      "I turn coffee into code,
                       use tabs over spaces
                       and never broke production."
 
@@ -21,7 +21,7 @@ author:
   github            : Sri-Hari-20
 # gitlab            : your_username
 # instagram         : your_username
-  linkedin          : linkedin.com/in/sri-hari-karthick-76087a165
+  linkedin          : sri-hari-karthick-76087a165
 # medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
