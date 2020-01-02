@@ -1,9 +1,7 @@
 ### Site Settings ###
 title               : Sri Hari Karthick
 description         : >-                               # >- means to ignore newlines until "url:"
-                      "I turn coffee into code,
-                      use tabs over spaces
-                      and never broke production."
+                      "Code never lies, Comments do."
 
 url                 : ""                               # base hostname & protocol for your site (e.g. http://example.com)
 baseurl             : "/"                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
