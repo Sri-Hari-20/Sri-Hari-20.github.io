@@ -2,6 +2,6 @@
   percentage: 95
   color: danger
 
-- name: Machine Learning/ Deep Learning
+- name: Machine Learning
   percentage: 90
-  color: 
+  color: danger
